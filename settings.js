@@ -9,18 +9,18 @@ global.location = "Nigeria, Lagos" //ur location
 
 //new
 global.botname = 'QUEEN_ANITA-V3' //ur bot name
-global.ownernumber = ' ' //ur owner number
-global.ownername = "DAVID CYRIL"  //ur owner name
-global.websitex = "http://www.youtube.com/@DavidCyril_TECH"
+global.ownernumber = '256700273834' //ur owner number
+global.ownername = "Malikmosh"  //ur owner name
+global.websitex = " "
 global.wagc = "https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"
 global.themeemoji = '👸'
 global.wm = "DAVID CYRIL TECH"
 global.botscript = 'https://github.com/DeeCeeXxx/Queen_Anita-V3' //script link
 global.packname = "STICKER BY"
 global.author = "QUEEN_ANITA-V3"
-global.creator = "2347043759577@s.whatsapp.net"
+global.creator = "256700273834"
 global.xprefix = "."
-global.premium = ["2347043759577"] // Premium User
+global.premium = ["256700273834"] // Premium User
 global.hituet = 0
 
 //bot sett
@@ -28,11 +28,11 @@ global.typemenu = 'v12' // menu type 'v1' => 'v12'
 global.typereply = 'v3' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
-global.anticall = false //bot blocks user when called
-global.autoswview = true //auto status/story view
-global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.welcome = 'false' //welcome/left in groups
+global.anticall = 'false' //bot blocks user when called
+global.autoswview = 'false' //auto status/story view
+global.adminevent = 'false' //show promote/demote message
+global.groupevent = 'false' //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
